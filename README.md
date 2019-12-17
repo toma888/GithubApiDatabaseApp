@@ -2,8 +2,10 @@
 Android Application represents Square Repositories on https://github.com/square
 
 Application makes http requests for the official GitHub API, saves to the database and shows it in the mobile-interface.
+
 Documentation - https://developer.github.com/v3/repos/
- What downloads - list of repositories https://github.com/square
+
+What downloads - list of repositories https://github.com/square
 
 How it shows:
 Without access to an Internet connection, shows only data from the database
