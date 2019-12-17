@@ -12,7 +12,7 @@ In each cell of the list - the name of the repository, the number of stars and f
 By clicking on the repository, goes to the second screen - repository details, wich contains:
 full name, description, url, the number of stars, forks, watches, issues.
 
-Techologies: 
+Technologies: 
 1. RxJava 2
 2. Retrofit 2
 3. SQLite
